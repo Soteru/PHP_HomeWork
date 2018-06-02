@@ -1,0 +1,1 @@
+a:1:{i:0;a:2:{s:5:"login";s:14:"Soter@mail.com";s:8:"password";s:64:"8e3ce5773a8577d401685d71d666bd326cd99ff2a84167e0efc7b947368459c6";}}
